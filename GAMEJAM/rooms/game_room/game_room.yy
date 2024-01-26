@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Room1",
+  "name": "game_room",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
