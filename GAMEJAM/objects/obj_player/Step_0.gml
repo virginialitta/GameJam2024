@@ -3,6 +3,7 @@ left_key = keyboard_check(ord("A"));
 up_key = keyboard_check(ord("W"));
 down_key = keyboard_check(ord("S"));
 no_key = keyboard_check(vk_nokey);
+input_interact = keyboard_check_released(ord("E"));
 
 
 xspd = (right_key - left_key) * move_spd;
@@ -30,7 +31,7 @@ if down_key {
 }
 
 
-//collisions
+//collisions with wall
 if place_meeting(x + xspd, y, obj_wall) == true
 	{
 		xspd = 0;
@@ -39,6 +40,18 @@ if place_meeting(x, y + yspd, obj_wall) == true
 	{
 		yspd = 0;
 	}
+	
+//collisions with NPC
+if place_meeting(x + xspd, y, obj_NPC_collision) == true
+	{
+		xspd = 0;
+	}
+if place_meeting(x, y + yspd, obj_NPC_collision) == true
+	{
+		yspd = 0;
+	}
 
+
+depth = -y;
 x += xspd;
 y += yspd;

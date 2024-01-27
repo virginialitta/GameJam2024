@@ -1,15 +1,15 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "menu",
+  "name": "rm_menu",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_12DDF04C","path":"rooms/menu/menu.yy",},
-    {"name":"inst_5897C1E9","path":"rooms/menu/menu.yy",},
-    {"name":"inst_77B8AEC4","path":"rooms/menu/menu.yy",},
+    {"name":"inst_12DDF04C","path":"rooms/rm_menu/rm_menu.yy",},
+    {"name":"inst_5897C1E9","path":"rooms/rm_menu/rm_menu.yy",},
+    {"name":"inst_77B8AEC4","path":"rooms/rm_menu/rm_menu.yy",},
   ],
   "isDnd": false,
   "layers": [

@@ -1,19 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_dialog_welcome",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "obj_npc_bob",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "dialog",
-    "path": "folders/Objects/dialog.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "parentObjectId": {
-    "name": "obj_dialog_parent",
-    "path": "objects/obj_dialog_parent/obj_dialog_parent.yy",
+    "name": "obj_NPC_collision",
+    "path": "objects/obj_NPC_collision/obj_NPC_collision.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -30,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_npc_bob",
+    "path": "sprites/spr_npc_bob/spr_npc_bob.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
