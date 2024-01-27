@@ -22,6 +22,9 @@
     {"name":"obj_button_play","order":1,"path":"objects/obj_button_play/obj_button_play.yy",},
     {"name":"obj_button_help","order":2,"path":"objects/obj_button_help/obj_button_help.yy",},
     {"name":"game_room","order":1,"path":"rooms/game_room/game_room.yy",},
+    {"name":"obj_wall","order":6,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"obj_controls","order":4,"path":"objects/obj_controls/obj_controls.yy",},
+    {"name":"spr_wall","order":2,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"obj_player","order":5,"path":"objects/obj_player/obj_player.yy",},
   ],
 }
