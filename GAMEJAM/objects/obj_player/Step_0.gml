@@ -2,6 +2,7 @@ right_key = keyboard_check(ord("D"));
 left_key = keyboard_check(ord("A"));
 up_key = keyboard_check(ord("W"));
 down_key = keyboard_check(ord("S"));
+no_key = keyboard_check(vk_nokey);
 
 
 xspd = (right_key - left_key) * move_spd;
@@ -23,6 +24,9 @@ if down_key {
 } else if (up_key) {
 	image_speed = 1;
     sprite_index = spr_player_up;
+} else if (no_key) {
+	image_speed = 0;
+	image_index = 0;
 }
 
 
