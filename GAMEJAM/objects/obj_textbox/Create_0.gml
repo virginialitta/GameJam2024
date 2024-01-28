@@ -1,7 +1,7 @@
 text = "The quick brown fox jumps over the lazy dog";
 page = 0;
-x_buffer = 10;
-y_buffer = 10;
+x_buffer = 0.3;
+y_buffer = 0.3;
 box_height = sprite_get_height(spr_box);
 box_width = sprite_get_width(spr_box);
 stringHeight = string_height(text);

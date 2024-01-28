@@ -1,4 +1,4 @@
-draw_set_font(fnt_text);
+draw_set_font(fnt_dialog);
 if(showing_dialog == true) {
 	var text_x = 30;
 	var text_y = 18;

@@ -38,6 +38,7 @@
     {"name":"obj_button_parent","order":3,"path":"objects/obj_button_parent/obj_button_parent.yy",},
     {"name":"game_room","order":1,"path":"rooms/game_room/game_room.yy",},
     {"name":"TileSet1","order":1,"path":"tilesets/TileSet1/TileSet1.yy",},
+    {"name":"fnt_dialog","order":2,"path":"fonts/fnt_dialog/fnt_dialog.yy",},
     {"name":"obj_wall","order":6,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"obj_controls","order":4,"path":"objects/obj_controls/obj_controls.yy",},
     {"name":"spr_box","order":12,"path":"sprites/spr_box/spr_box.yy",},
