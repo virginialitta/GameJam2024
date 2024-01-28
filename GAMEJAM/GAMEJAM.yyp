@@ -63,6 +63,7 @@
     {"id":{"name":"spr_box","path":"sprites/spr_box/spr_box.yy",},},
     {"id":{"name":"spr_player_right","path":"sprites/spr_player_right/spr_player_right.yy",},},
     {"id":{"name":"spr_arrow_button","path":"sprites/spr_arrow_button/spr_arrow_button.yy",},},
+    {"id":{"name":"menu","path":"rooms/menu/menu.yy",},},
     {"id":{"name":"obj_dialog_welcome","path":"objects/obj_dialog_welcome/obj_dialog_welcome.yy",},},
     {"id":{"name":"obj_npc_bob","path":"objects/obj_npc_bob/obj_npc_bob.yy",},},
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
@@ -71,8 +72,9 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"game_room","path":"rooms/game_room/game_room.yy",},},
+    {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
     {"roomId":{"name":"rm_joke_creation","path":"rooms/rm_joke_creation/rm_joke_creation.yy",},},
+    {"roomId":{"name":"game_room","path":"rooms/game_room/game_room.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

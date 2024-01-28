@@ -43,6 +43,7 @@
     {"name":"spr_box","order":12,"path":"sprites/spr_box/spr_box.yy",},
     {"name":"spr_player_right","order":4,"path":"sprites/spr_player_right/spr_player_right.yy",},
     {"name":"spr_arrow_button","order":8,"path":"sprites/spr_arrow_button/spr_arrow_button.yy",},
+    {"name":"menu","order":3,"path":"rooms/menu/menu.yy",},
     {"name":"obj_dialog_welcome","order":1,"path":"objects/obj_dialog_welcome/obj_dialog_welcome.yy",},
     {"name":"obj_npc_bob","order":11,"path":"objects/obj_npc_bob/obj_npc_bob.yy",},
     {"name":"spr_wall","order":2,"path":"sprites/spr_wall/spr_wall.yy",},
