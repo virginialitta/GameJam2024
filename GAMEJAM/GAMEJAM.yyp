@@ -69,10 +69,8 @@
     {"id":{"name":"tilemap_packed","path":"sprites/tilemap_packed/tilemap_packed.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
-    {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"game_room","path":"rooms/game_room/game_room.yy",},},
     {"roomId":{"name":"rm_joke_creation","path":"rooms/rm_joke_creation/rm_joke_creation.yy",},},
   ],
