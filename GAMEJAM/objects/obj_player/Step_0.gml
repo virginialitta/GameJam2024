@@ -3,7 +3,6 @@ left_key = keyboard_check(ord("A"));
 up_key = keyboard_check(ord("W"));
 down_key = keyboard_check(ord("S"));
 no_key = keyboard_check(vk_nokey);
-input_interact = keyboard_check_released(ord("E"));
 
 
 xspd = (right_key - left_key) * move_spd;

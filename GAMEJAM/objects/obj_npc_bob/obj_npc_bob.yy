@@ -2,7 +2,9 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_npc_bob",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -10,8 +12,8 @@
     "path": "folders/Objects.yy",
   },
   "parentObjectId": {
-    "name": "obj_NPC_collision",
-    "path": "objects/obj_NPC_collision/obj_NPC_collision.yy",
+    "name": "obj_parent_talker",
+    "path": "objects/obj_parent_talker/obj_parent_talker.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
