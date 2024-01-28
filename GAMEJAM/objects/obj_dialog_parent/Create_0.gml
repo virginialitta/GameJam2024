@@ -1,6 +1,8 @@
 dialog = new Dialogue();
 
-key_next = vk_enter;
+y_buffer = 1;
+
+key_next = vk_space;
 
 showing_dialog = false;
 

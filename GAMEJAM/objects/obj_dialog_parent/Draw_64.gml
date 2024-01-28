@@ -1,9 +1,11 @@
+draw_set_font(fnt_dialog);
 if(showing_dialog == true) {
 	var text_x = 30;
 	var text_y = 18;
 	var height = 32;
 	var border = 5;
 	var padding = 16;
+	text_width = 25;
 	
 	height = string_height(current_dialog.message);
 	

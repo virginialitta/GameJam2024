@@ -30,7 +30,7 @@ if down_key {
 }
 
 
-//collisions
+//collisions with wall
 if place_meeting(x + xspd, y, obj_wall) == true
 	{
 		xspd = 0;
@@ -39,6 +39,18 @@ if place_meeting(x, y + yspd, obj_wall) == true
 	{
 		yspd = 0;
 	}
+	
+//collisions with NPC
+if place_meeting(x + xspd, y, obj_NPC_collision) == true
+	{
+		xspd = 0;
+	}
+if place_meeting(x, y + yspd, obj_NPC_collision) == true
+	{
+		yspd = 0;
+	}
 
+
+depth = -y;
 x += xspd;
 y += yspd;

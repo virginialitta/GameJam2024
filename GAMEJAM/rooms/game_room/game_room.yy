@@ -9,7 +9,6 @@
   "instanceCreationOrder": [
     {"name":"inst_2805B8D8","path":"rooms/game_room/game_room.yy",},
     {"name":"inst_13575489","path":"rooms/game_room/game_room.yy",},
-    {"name":"inst_73C9B8B","path":"rooms/game_room/game_room.yy",},
     {"name":"inst_584F1B4","path":"rooms/game_room/game_room.yy",},
     {"name":"inst_82A3B3","path":"rooms/game_room/game_room.yy",},
     {"name":"inst_4D4C398F","path":"rooms/game_room/game_room.yy",},
@@ -71,6 +70,8 @@
     {"name":"inst_AE3F6B6","path":"rooms/game_room/game_room.yy",},
     {"name":"inst_544D9C34","path":"rooms/game_room/game_room.yy",},
     {"name":"inst_37D13580","path":"rooms/game_room/game_room.yy",},
+    {"name":"inst_2A3AAE2A","path":"rooms/game_room/game_room.yy",},
+    {"name":"inst_61DC929F","path":"rooms/game_room/game_room.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -252,7 +253,7 @@
   },
   "sequenceId": null,
   "views": [
-    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":350,"hport":400,"hspeed":-1,"hview":400,"inherit":false,"objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"vborder":200,"visible":true,"vspeed":-1,"wport":700,"wview":700,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
@@ -264,7 +265,7 @@
   "viewSettings": {
     "clearDisplayBuffer": true,
     "clearViewBackground": false,
-    "enableViews": false,
+    "enableViews": true,
     "inheritViewSettings": false,
   },
   "volume": 1.0,
