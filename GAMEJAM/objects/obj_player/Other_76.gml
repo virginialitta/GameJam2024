@@ -10,8 +10,8 @@ pitchamt = (random_range(-0.2, 0.2));
 /// @DnDVersion : 1
 /// @DnDHash : 2128E990
 /// @DnDArgument : "sound" " snd_foot2"
-/// @DnDArgument : "pitch" "1+pitchamt"
-audio_sound_pitch( snd_foot2, 1+pitchamt);
+/// @DnDArgument : "pitch" "2+pitchamt"
+audio_sound_pitch( snd_foot2, 2+pitchamt);
 
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
