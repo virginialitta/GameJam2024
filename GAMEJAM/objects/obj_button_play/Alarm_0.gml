@@ -1,3 +1,3 @@
 event_inherited();
 
-room_goto(game_room);
+room_goto(rm_joke_creation);
