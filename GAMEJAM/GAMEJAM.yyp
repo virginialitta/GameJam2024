@@ -87,7 +87,6 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
-    {"roomId":{"name":"rm_joke_creation","path":"rooms/rm_joke_creation/rm_joke_creation.yy",},},
     {"roomId":{"name":"game_room","path":"rooms/game_room/game_room.yy",},},
   ],
   "templateType": "game",

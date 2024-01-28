@@ -70,8 +70,6 @@
     {"name":"inst_AE3F6B6","path":"rooms/game_room/game_room.yy",},
     {"name":"inst_544D9C34","path":"rooms/game_room/game_room.yy",},
     {"name":"inst_37D13580","path":"rooms/game_room/game_room.yy",},
-    {"name":"inst_2A3AAE2A","path":"rooms/game_room/game_room.yy",},
-    {"name":"inst_61DC929F","path":"rooms/game_room/game_room.yy",},
   ],
   "isDnd": false,
   "layers": [
