@@ -36,7 +36,7 @@
     {"name":"spr_dialog_sprite","order":7,"path":"sprites/spr_dialog_sprite/spr_dialog_sprite.yy",},
     {"name":"obj_textbox","order":14,"path":"objects/obj_textbox/obj_textbox.yy",},
     {"name":"obj_button_parent","order":3,"path":"objects/obj_button_parent/obj_button_parent.yy",},
-    {"name":"rm_game_room","order":1,"path":"rooms/rm_game_room/rm_game_room.yy",},
+    {"name":"game_room","order":1,"path":"rooms/game_room/game_room.yy",},
     {"name":"TileSet1","order":1,"path":"tilesets/TileSet1/TileSet1.yy",},
     {"name":"obj_wall","order":6,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"obj_controls","order":4,"path":"objects/obj_controls/obj_controls.yy",},

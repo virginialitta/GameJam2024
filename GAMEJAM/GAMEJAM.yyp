@@ -55,7 +55,7 @@
     {"id":{"name":"scipt_dialog","path":"scripts/scipt_dialog/scipt_dialog.yy",},},
     {"id":{"name":"obj_textbox","path":"objects/obj_textbox/obj_textbox.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
-    {"id":{"name":"rm_game_room","path":"rooms/rm_game_room/rm_game_room.yy",},},
+    {"id":{"name":"game_room","path":"rooms/game_room/game_room.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"obj_dialog_parent","path":"objects/obj_dialog_parent/obj_dialog_parent.yy",},},
@@ -73,7 +73,7 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
-    {"roomId":{"name":"rm_game_room","path":"rooms/rm_game_room/rm_game_room.yy",},},
+    {"roomId":{"name":"game_room","path":"rooms/game_room/game_room.yy",},},
     {"roomId":{"name":"rm_joke_creation","path":"rooms/rm_joke_creation/rm_joke_creation.yy",},},
   ],
   "templateType": "game",
